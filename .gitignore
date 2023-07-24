@@ -3,6 +3,6 @@
 
 # But not these files...
 !.gitignore
-!wavfile.cc
+!wavfile.*
 # etc...
 
