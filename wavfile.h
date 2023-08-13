@@ -17,6 +17,7 @@ struct
         else
             return -1;
     }
+    double saw(int frequency, int)
 } BasicWaves;
 
 constexpr unsigned int str2int(const char *str, int h = 0)
